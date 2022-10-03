@@ -2,8 +2,6 @@
 ### This repository contains Projects that worked in Visualization Programs 
 1. [SuperStore Dashboard](#Super)
 2. [World Bank CO2 Dashbord](#co2)
-
----
 ---
 # SuperStore Dashboard. <a name="Super"></a>
 #### The Dashboard is insights for Super Store Dataset Used Power BI
