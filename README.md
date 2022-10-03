@@ -29,10 +29,11 @@ I have 3 Categories [Furniture, Office Supplies, Technology]
 
 ##### Line and Clustered Column Chart. <a name="line"></a>
 - Display Count of Region by Ship Date and Category.
-----
-Here is the link to the Dataset on Kaggle [SuperStore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
-----
 
+Here is the link to the Dataset on Kaggle [SuperStore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
+
+
+---
 # World Bank CO2 Dashbord <a name="co2"></a>
 
 - Create a dashboard from the World Bank CO2 dataset used Tableau.
