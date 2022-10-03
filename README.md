@@ -37,3 +37,4 @@ Here is the link to the Dataset on Kaggle [SuperStore Dataset](https://www.kaggl
 
 - Create a dashboard from the World Bank CO2 dataset used Tableau.
 - I published this dashboard on tableau public.
+- Here is the link to the Dashboard on Tableau Public [World Bank CO2 Dashboard](https://public.tableau.com/app/profile/fatimah.asiri/viz/DashboardCO2Bank/DashboardCO2Bank).
